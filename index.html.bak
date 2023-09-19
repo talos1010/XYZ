@@ -7,6 +7,14 @@
 
 <body>
 <h1> Hey Customer!</h1>
+<h2>Siuuuuuuuuuuuuuu!!!!</h2>
+form action="mailto:xyz@com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+<input type="submit" name="Send">
+<input type="reset" name="Reset">
 </body>
 </html>
 
